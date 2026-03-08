@@ -14,7 +14,7 @@
 
 | 💻 Programming Languages | 🌐 Full-Stack Development | ☁️ Data, Cloud/DevOps | 🤖 AI/ML |
 | :--- | :--- | :--- | :--- |
-| C, C++, Python | JavaScript, HTML, CSS | Docker, CI/CD | PyTorch, TensorFlow |
+| C, C++, Python | JavaScript, HTML, CSS | Docker, CI/CD, Kubernetes | PyTorch, TensorFlow |
 | Java, JavaScript | Node.js, Express.js | Git, GitHub, Linux  | AraBERT, NLP |
 | SQL | Flutter, FastAPI | MySQL, MongoDB , FireBase | OpenCV, Edge AI |
 | Bash | React,Next.js | AWS, Vercel | Data Analysis |
@@ -24,7 +24,7 @@
 Frontend      ⚡ React • Next.js • Flutter • HTML • CSS
 Backend       ⚡ Python • Java • C • Node.js • Express.js • Flask • FastAPI
 Databases     ⚡ MySQL • MongoDB • Firebase
-Cloud         ⚡ Docker • Git • Linux  • AWS • Vercel
+Cloud         ⚡ Docker • Git • Linux  • AWS • Vercel • Kubernetes
 AI/ML         ⚡ PyTorch • TensorFlow • OpenCV • AraBERT • NLP • Edge AI
 Testing       ⚡ Unit Testing • Integration Testing • Automation • QA
 ```
