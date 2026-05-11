@@ -36,7 +36,6 @@ Testing       ⚡ Unit Testing • Integration Testing • Automation • QA
 <div align="center">
   🏛️ <b>Bachelor of Science Software Engineering Student</b><br>
   📍 <i>Braude Academic College</i><br>
-  📅 2022 - 2027
 </div>
 
 <hr>
